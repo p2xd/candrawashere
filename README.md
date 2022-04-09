@@ -1,7 +1,7 @@
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=candrawashere&label=Ziyaretçi%20Sayısı&color=blueviolet&style=for-the-badge" alt="candrawashere"/>
 </p>
-## 👥 Discord Hesabım
+##  👥 Discord Hesabım
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/937307538087616523)](https://discord.com/users/937307538087616523)
 
