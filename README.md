@@ -4,7 +4,7 @@
 
 ##  👥 Discord Hesabım
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/937307538087616523)](https://discord.com/users/937307538087616523)
+[![Discord Presence](https://lanyard.cnrad.dev/api/823168252778774579)](https://discord.com/users/823168252778774579)
 
 ## 💻 GitHub İstatistiklerim
 <p align = 'center'>
