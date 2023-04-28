@@ -3,8 +3,7 @@
 </p>
 
 ##  👥 Discord Hesabım
-
-[![Discord Presence](https://lanyard.cnrad.dev/api/823168252778774579)](https://discord.com/users/823168252778774579)
+[![Discord Presence](https://lanyard.cnrad.dev/api/170261173730541568)](https://discord.com/users/170261173730541568)
 
 ## 💻 GitHub İstatistiklerim
 <p align = 'center'>
